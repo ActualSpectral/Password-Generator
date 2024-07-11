@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 The purpose of this program is to generate a password that depends on the inputs of the user which are
 password_length, security_level (1, 2, 3, 4). In the end, a password with the chosen characteristics will
 be printed to the terminal. Future additions to this program are planned which revolve around the user entering a 
